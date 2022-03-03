@@ -3,7 +3,7 @@
 ## Demo
 
 <p align="center">
-          <img align="center" src="">
+          <img align="center" src="https://github.com/RiegerJulio/CloneTunes/blob/master/src/clonetunes_Demo.gif">
 </p>
 
 ## About
